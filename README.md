@@ -4,9 +4,9 @@
 *Author: Pete George*  
   
 ## Whattaya cryin' about?
-I'm from a big Italian family. When I was a child, my father would collect every receipt he had in his wallet so he could reconcile them against his bank statement the following month.
+I'm from a big Italian family. When I was a child, my father would collect every receipt he had in his wallet so he could reconcile them against his bank statement the following month.  
 
-
+![bulging-wallet](https://github.com/crackthedata/aipeaks-pipeline-workshop/assets/87875118/b95ababc-880c-431c-aeeb-933e1e69d9d4)
 
 What if he had a tool that would help him?  
 What if that tool could extract the text in those receipts for him?
