@@ -67,7 +67,7 @@ And don't forget to add the location of the `minikube.exe` binary to your `PATH`
 
 #### Build the docker image
 
-`cd` to the local repository location (with the `Dockerfile` present) and build the docker image that will pull the latest version of Ubuntu from Docker Hub, install Python 3.12, install Donut, and configure the environment so it can run seemlessly. We're going to call this image `aipeaks` for now.
+`cd` to the local repository location (with the `Dockerfile` present) and build the docker image that will pull the latest version of Ubuntu from Docker Hub, install Python 3.12, install Donut, and configure the environment so we can run it as a container. We're going to call this image `aipeaks` for now.
 
 ```
 docker build -t aipeaks .
