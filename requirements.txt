@@ -1,4 +1,4 @@
-transformers==4.25.1
+transformers==4.36.0
 timm==0.5.4
 donut-python==1.0.9
 metaflow==2.9.15
